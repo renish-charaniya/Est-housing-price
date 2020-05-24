@@ -1,2 +1,4 @@
 ml_venv/
-.ipynb_checkpoints
+*.ipynb_checkpoints/
+Dragon Real Estates.ipynb
+
